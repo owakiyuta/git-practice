@@ -1,3 +1,3 @@
-console.log("Hello World");
-//チェックポイント52
+console.log("Hello World");//チェックポイント52
+
 
